@@ -1,0 +1,3 @@
+Uninstall apps from the commandline on iOS devices (requires jailbreak)
+Usage: uninstall com.application.identifier
+
